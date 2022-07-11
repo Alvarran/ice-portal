@@ -61,7 +61,7 @@ body {
 }
 
 input:checked + .slider {
-  background-color: #000000;
+  background-color #282079;
 }
 
 input:focus + .slider {
