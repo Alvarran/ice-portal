@@ -41,7 +41,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #ccc;
+  background-color: #ffffff;
   -webkit-transition: .4s;
   transition: .4s;
 }
@@ -61,11 +61,11 @@ body {
 }
 
 input:checked + .slider {
-  background-color #282079;
+  background-color: #020026;
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #000000;
+  box-shadow: 0 0 1px #020026;
 }
 
 input:checked + .slider:before {
@@ -74,7 +74,7 @@ input:checked + .slider:before {
   transform: translateX(26px);
   background-image: url("/assets/pics/moon.png");
   background-size: 26px;
-  background-color: #303030;
+  background-color: #020026;
 }
 
 /* Rounded sliders */
