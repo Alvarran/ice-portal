@@ -129,7 +129,7 @@ a.dark:link, a.dark:visited, a.dark:hover, a.dark:active {
 #center {
     position: absolute;
     left: 50%;
-    top: 60%;
+    top: 55%;
     transform: translate(-50%,-50%);
     -webkit-transform: translate(-50%,-50%);
     -moz-transform: translate(-50%,-50%);
